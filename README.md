@@ -5,4 +5,4 @@ This simple mod will keep the cursor locked in the monitor where GTA IV is opene
 [GTAinside](https://www.gtainside.com/gta4/mods/160019-no-cursor-escape/)
 
 ## Installation
-Just drag & drop the asi file into your main directory of gta iv. Make sure you have an asi loader and that your gta is downgraded to 1080 or below.
+Just drag & drop the asi file into your main directory of GTA IV. Make sure you have an asi loader and that your gta is downgraded to 1080 or below.
